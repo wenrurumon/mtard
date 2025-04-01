@@ -1,0 +1,7 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     glassofast.so
+relocations:
+  - { offsetInCU: 0x183, offset: 0x183, size: 0x8, addend: 0x0, symName: _glassofast, symObjAddr: 0x0, symBinAddr: 0x3770, symSize: 0x764 }
+  - { offsetInCU: 0x49, offset: 0x49, size: 0x8, addend: 0x0, symName: _glassofast, symObjAddr: 0x0, symBinAddr: 0x3770, symSize: 0x764 }
+...
